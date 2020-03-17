@@ -1,3 +1,3 @@
 <?php
-$db = new mysqli("localhost","root","AssetzLPSQL@73#","fbapp");
+$db = new mysqli("host","username","password","dbname");
 define("TABLE_PREFIX","hd_");
